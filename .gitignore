@@ -4,4 +4,5 @@ _minted*
 *.pptx
 *.fdb*
 *.fls
+.gitignore
 
