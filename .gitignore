@@ -1,0 +1,7 @@
+_minted*
+*.aux
+*.gz
+*.pptx
+*.fdb*
+*.fls
+
